@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yurim_portfolio/static/css/main.dedb5ac4.css",
+    "main.js": "/yurim_portfolio/static/js/main.83f7925c.js",
+    "static/media/NanumSquareNeoOTF-Hv.otf": "/yurim_portfolio/static/media/NanumSquareNeoOTF-Hv.2b56a694b518a9d7c513.otf",
+    "static/media/NanumSquareNeoOTF-Rg.otf": "/yurim_portfolio/static/media/NanumSquareNeoOTF-Rg.c99b7df19f3740ec73f9.otf",
+    "index.html": "/yurim_portfolio/index.html",
+    "main.dedb5ac4.css.map": "/yurim_portfolio/static/css/main.dedb5ac4.css.map",
+    "main.83f7925c.js.map": "/yurim_portfolio/static/js/main.83f7925c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dedb5ac4.css",
+    "static/js/main.83f7925c.js"
+  ]
+}
